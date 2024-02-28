@@ -34,7 +34,7 @@ sample output : Enter the size of the array: 4
 
 Enter the array elements: 1 2 3 5
 
-Sum of the array elements: 10
+Sum of the array elements: 11
 
 
 
